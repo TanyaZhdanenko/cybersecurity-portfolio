@@ -37,3 +37,10 @@ Command-line utilities used during labs to verify connectivity and audit network
 ## 4. Network Defense & Traffic Monitoring
 *   **Firewalls:** Stateful vs. stateless packet filtering, configuring ACLs (Access Control Lists) to restrict traffic between zones.
 *   **IDS/IPS Concepts:** Signature-based vs. anomaly-based detection (Snort/Suricata principles) to alert or block malicious payloads.
+
+*   ## 5. Cryptography & Data Protection
+Mastered foundational cryptographic principles via TryHackMe labs to understand how data confidentiality, integrity, and authenticity are maintained:
+
+*   **Symmetric vs. Asymmetric Encryption:** Differentiating between algorithms like AES (symmetric, fast data encryption) and RSA (asymmetric, secure key exchange).
+*   **Hashing Algorithms:** Utilizing MD5, SHA-1, and SHA-256 to verify data integrity and understand how operating systems securely store user passwords.
+*   **Public Key Infrastructure (PKI) & TLS:** Analyzing how digital certificates and asymmetric cryptography protect web traffic (HTTPS) from Man-in-the-Middle (MitM) attacks.
